@@ -17,7 +17,7 @@ The objective of this project was to simulate a real-world cybersecurity investi
 
 
 ## Steps
-#### The steps feature screenshots of the filters applied to the SQL queries and reference the template I used
+#### These steps include screenshots showcasing the filters applied to the SQL queries, along with references to the template utilized during the process.
 
 ### 1. Project description
 <img width="639" alt="Screenshot 2025-04-09 at 12 59 46" src="https://github.com/user-attachments/assets/f8de265a-9d58-473f-9d73-52cff7cb495a" />
